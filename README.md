@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Ruveendra
 
-<!--
-**ruveendra/ruveendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Full-Stack Developer  
+📍 Based in Athens, GA  
+🎓 MSBA @ University of Georgia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Full-stack developer focused on React, Node.js, and TypeScript
+- Experience building collaborative real-time systems (CRDT, WebSockets, Yjs)
+- Strong background in data + analytics from industry experience
+- Currently exploring scalable web apps and system design
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, SQL  
+**Frontend:** React, Next.js, Tailwind, MobX  
+**Backend:** Node.js, Express, REST APIs, WebSockets  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Other:** AWS, Docker, Kafka, Git, CI/CD
+
+---
+
+## 📌 Featured Projects
+### 🔹 Collaborative Editor
+Real-time document editor using CRDTs and WebSockets  
+- Conflict-free syncing across multiple users  
+- Built collaborative editing experience similar to Google Docs  
+
+### 🔹 Analytics Dashboard
+End-to-end analytics platform with data pipelines and dashboards  
+- Integrated APIs + SQL pipelines  
+- Built interactive dashboards for insights  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact
+- LinkedIn: your-link
+- Email: your-email
