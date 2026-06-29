@@ -34,13 +34,6 @@ End-to-end analytics platform with data pipelines and dashboards
 - Integrated APIs + SQL pipelines  
 - Built interactive dashboards for insights  
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
 ## 📫 Contact
-- LinkedIn: your-link
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/ruveendra-dewshan/
+- Email: ruveendradeewshan@gmail.com
