@@ -1,8 +1,8 @@
-![Alt text for the image]([https://linkedinbackground.com/nature/fog-on-top-of-mountains/#google_vignette)
+<img width="1586" height="396" alt="Fog-On-Top-Of-Mountains (1)" src="https://github.com/user-attachments/assets/46f8e772-efd3-4d55-821b-4fe1c9bcd207" />
 
 # Hi there 👋 I'm Ruveendra
 
-I've always loved math. I'm definitely not one of those people who can instantly calculate 134 × 20 in my head, but I absolutely love learning a new concept and then applying it to solve a problem. There's a specific kind of high I get when something finally makes sense and I can use it to build something. That's why I love software engineering.
+I've always loved math. I'm definitely not one of those people who can instantly calculate 1246 × 226 in my head, but I absolutely love learning a new concept and then applying it to solve a problem. There's a specific kind of high I get when something finally makes sense and I can use it to build something. That's why I love software engineering.
 
 I love working on problems where I have absolutely no idea what the solution is when I start. I enjoy going down rabbit holes, researching how things work, piecing everything together, and eventually building a solution.
 
