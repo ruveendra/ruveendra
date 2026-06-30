@@ -4,7 +4,7 @@
 
 I'm one of those people who loves math, I love learning a new concept and then applying it to solve a problem. There's a specific kind of high I get when something finally makes sense and I can use it to build something. That's why I love software engineering.
 
-I love working on problems where I have absolutely no idea what the solution is when I start. I enjoy going down rabbit holes, researching how things work, piecing everything together, and eventually building a solution.
+I love working on problems I initially know nothing about, going down rabbit holes, researching how things work, piecing everything together, and eventually building a solution.
 
 Outside of programming, you'll usually find me reading or playing my beautiful British Racing Green Fender Telecaster. 🎸
 
