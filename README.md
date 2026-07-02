@@ -1,6 +1,6 @@
 <img width="1586" height="396" alt="mountain-range-forest-daytime-scenery" src="https://github.com/user-attachments/assets/dcce9397-6e06-493d-b467-90b75f19a29b" />
 
-# Hi there 👋 I'm Ruveendra
+# Hello!! I'm Ruveendra
 
 I'm one of those people who loves math, I love learning a new concept and then applying it to solve a problem. There's a specific kind of high I get when something finally makes sense and I can use it to build something. That's why I love software engineering.
 
