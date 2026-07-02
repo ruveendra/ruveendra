@@ -16,7 +16,7 @@ Outside of programming, you'll usually find me reading or playing my beautiful B
 
 * Full-Stack Development
 * Distributed Systems
-* Real-Time Collaboration
+* Multiplayer Real-Time Collaboration
 * Backend Engineering
 * Cloud Infrastructure
 
@@ -50,14 +50,14 @@ Docker • Kafka • Git • CI/CD
 
 Worked on the collaborative editing experience for **Atticus**, a book writing and publishing platform used by over **100,000 authors**.
 
-Built a real-time collaboration layer on top of the Slate/Plate rich-text editor, enabling multiple authors to edit the same document simultaneously.
+Built a real-time collaboration layer on top of the Slate/Plate rich-text editor, enabling multiple authors to co-author books in realtime.
 
 Implemented:
 
-* CRDT-based synchronization for conflict-free, offline-first editing
-* Suggestions (track changes) for collaborative review workflows
-* Live cursor awareness and collaborator presence
-* Real-time synchronization across multiple users
+* CRDT based realtime multiplayer editing engine for concurrent/offline-first editing
+* Social Collaboration Features - Presence tracking, Comments, Suggestions (track changes)
+* Rich-text editor with custom plugins - Ornamental breaks, Footnotes, Callout boxes, Indednts and media
+* Off thread PDF/ePub compilation pipelines
 
 ---
 
