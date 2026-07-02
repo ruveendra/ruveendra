@@ -54,10 +54,10 @@ Built a real-time collaboration layer on top of the Slate/Plate rich-text editor
 
 Implemented:
 
-* CRDT based realtime multiplayer editing engine for concurrent/offline-first editing
-* Social Collaboration Features - Presence tracking, Comments, Suggestions (track changes)
-* Rich-text editor with custom plugins - Ornamental breaks, Footnotes, Callout boxes, Indednts and media
-* Off thread PDF/ePub compilation pipelines
+* CRDT-Based Sync Engine: Integrated Yjs to handle concurrent, offline-first document synchronization and automatic conflict resolution
+* Social Collaboration Features: live presence tracking, commenting systems, and a suggestions (track changes) engine
+* Custom Rich-Text Extensions: Slate custom serializers, normalizers, and plugins to support formatting like ornamental breaks, footnotes, callout boxes, and indents
+* Asynchronous Document Processing: Designed off-thread compilation pipelines to handle PDF and ePub rendering without blocking the main editor thread
 
 ---
 
