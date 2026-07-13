@@ -1,12 +1,12 @@
 <img width="1586" height="396" alt="mountain-range-forest-daytime-scenery" src="https://github.com/user-attachments/assets/dcce9397-6e06-493d-b467-90b75f19a29b" />
 
-# Hello!!, I'm Ruveendra
+# Hello!
 
-I'm one of those people who loves math, I love learning a new concept and then applying it to solve a problem. There's a specific kind of high I get when something finally makes sense and I can use it to build something. That's why I love software engineering.
+I love a good problem that sits in a grey area, working through it until it's properly articulated and structuring a solution around it. Software engineering is a space where you get to do exactly that: learn, understand, build, bring value, and live long enough to tell the story!
 
-I love working on problems I initially know nothing about, going down rabbit holes, researching how things work, piecing everything together, and eventually building a solution.
+My academic background is in software engineering, business analytics, and communication. My work background is in building web-based collaboration engines, distributed systems, and full-stack applications, with a strong background in cloud engineering. My current interests are integrating LLMs and AI agents into platforms to build better workflows. I'm currently exploring how AI can build on top of different domains, especially in collaborative systems.
 
-Outside of programming, you'll usually find me reading or playing my beautiful British Racing Green Fender Telecaster. 🎸
+Outside of programming, you'll usually find me outdoors or playing my beautiful British Racing Green Fender Telecaster. 🎸
 
 📍 Athens, GA, USA
 
