@@ -1,6 +1,6 @@
 <img width="1586" height="396" alt="mountain-range-forest-daytime-scenery" src="https://github.com/user-attachments/assets/dcce9397-6e06-493d-b467-90b75f19a29b" />
 
-##  Hey, I'm Ruveendra
+##  Hey, I'm Ruveendra                                                                                                                                                                                    📍 Athens, GA, USA
 
 I love a good problem that sits in a grey area, working through it until it's properly articulated and structuring a solution around it. Software engineering is a space where you get to do exactly that: learn, understand, build, bring value, and live long enough to tell the story!
 
@@ -8,7 +8,6 @@ My academic background is in software engineering, business analytics, and commu
 
 Outside of programming, you'll usually find me outdoors or playing my beautiful British Racing Green Fender Telecaster. 🎸
 
-📍 Athens, GA, USA
 
 ---
 
