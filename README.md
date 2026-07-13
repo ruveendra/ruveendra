@@ -58,11 +58,11 @@ Implemented:
 * Custom Rich-Text Extensions: Slate custom serializers, normalizers, and plugins to support formatting
 * Asynchronous Document Processing: Designed off-thread compilation pipelines to handle PDF and ePub rendering without blocking the main editor thread
 
-<hr style="height: 1px; border: 0;">
+<div style="height: 1px; background-color: #e1e4e8;"></div>
 
-### **Continuum (https://github.com/ruveendra/Continuum) :** An AI-assisted editor, exploring inline AI-powered editing on top of a real-time collaborative document layer
+### **Continuum (https://github.com/ruveendra/Continuum) :** An AI-assisted collaborative editor
 
-Designed and built the full editing and AI-suggestion engine as a self-directed learning project, architecting the system before writing implementation code.
+Designed and built an AI-assisted rich text editor with Next.js, exploring inline AI editing on a real-time collaborative document layer.
 
 Implemented:
 
