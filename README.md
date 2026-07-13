@@ -58,6 +58,20 @@ Implemented:
 * Custom Rich-Text Extensions: Slate custom serializers, normalizers, and plugins to support formatting
 * Asynchronous Document Processing: Designed off-thread compilation pipelines to handle PDF and ePub rendering without blocking the main editor thread
 
+
+### **Continuum (https://github.com/ruveendra/Continuum) :** An AI-assisted editor built with Next.js, exploring inline AI-powered editing on top of a real-time collaborative document layer
+
+Independently designed and built the full editing and AI-suggestion engine as a self-directed learning project, architecting the system before writing implementation code.
+
+Implemented:
+
+* Multi-Session AI Editing System: Designed a concurrent AI suggestion architecture (capped session pool) allowing multiple in-flight AI edit requests to coexist independently, each tracked through its own loading/result/accept-reject lifecycle
+* Position-Aware Highlight Tracking: Built a custom ProseMirror decoration system that keeps AI-suggestion highlights correctly anchored to their source text as the document is edited elsewhere, using transaction-mapping to reconcile state living outside ProseMirror's own model
+* Selection-Aware Tooltip UI: Implemented Floating UI tooltips anchored to virtual reference elements derived from ProseMirror's coordinate system, supporting both a live selection-following tooltip and persistent per-session tooltips that track document changes in real time
+* AI Integration Layer: Connected a Next.js Route Handler to Google's Gemini API for instruction-driven text rewriting, with formatting-aware replacement logic that distinguishes whole-block versus partial-selection edits to avoid corrupting document structure
+* Document Sync Foundation: Set up Y.js with WebSocket and IndexedDB providers for offline-first, real-time editor state, as the base the AI-editing layer is built on top of
+* State Architecture: Structured editor and AI-session state with a domain-separated Zustand store design, bridging React state into ProseMirror's plugin system via transaction metadata
+
 ---
 
 ## 📫 Contact
