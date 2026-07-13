@@ -47,7 +47,7 @@ Docker • Kafka • Git • CI/CD
 
 ## 🚀 Featured Project
 
-### **Atticus (https://www.atticus.io/):** A book-writing and formatting platform with 100K+ active authors
+### **Atticus (https://www.atticus.io/) :** A book-writing and formatting platform with 100K+ active authors
 
 Core senior engineer leading the collaboration engine for Atticus, built on top of its rich-text editor, allowing authors to co-author books in real-time
 
