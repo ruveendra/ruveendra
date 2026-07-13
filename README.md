@@ -58,7 +58,7 @@ Implemented:
 * Custom Rich-Text Extensions: Slate custom serializers, normalizers, and plugins to support formatting
 * Asynchronous Document Processing: Designed off-thread compilation pipelines to handle PDF and ePub rendering without blocking the main editor thread
 
---
+<hr style="height: 1px; border: 0;">
 
 ### **Continuum (https://github.com/ruveendra/Continuum) :** An AI-assisted editor, exploring inline AI-powered editing on top of a real-time collaborative document layer
 
