@@ -16,7 +16,9 @@ Outside of programming, you'll usually find me outdoors or playing my beautiful 
 
 ## 🚀 Featured Project
 
-### **Continuum ([live demo](https://continuum-indol.vercel.app/) · [frontend](https://github.com/ruveendra/Continuum) · [sync server](https://github.com/ruveendra/continuum-sync-server)):** An AI-native collaborative writing platform, built to explore how AI-assisted editing can sit natively inside a real-time collaborative document — not bolted on as a separate tool
+### **Continuum ([live demo](https://continuum-indol.vercel.app/) · [frontend](https://github.com/ruveendra/Continuum) · [sync server](https://github.com/ruveendra/continuum-sync-server)):** An AI-native collaborative writing platform
+
+Built to explore how AI-assisted editing can sit natively inside a real-time collaborative document — not bolted on as a separate tool
 
 Designed and built the full editing, collaboration, and AI-suggestion engine end to end, from architecture through implementation.
 
@@ -40,6 +42,7 @@ Designed and built the full editing, collaboration, and AI-suggestion engine end
 * State Architecture: Domain-separated Zustand stores bridging React state into ProseMirror's plugin system via transaction metadata
 * Selection-Aware Tooltip UI: Floating UI tooltips positioned from ProseMirror coordinate data — both live-selection tooltips and persistent per-session tooltips that track document changes in real time
 
+---
 
 ### **Atticus (https://www.atticus.io/):** A book-writing and formatting platform with 100K+ active authors
 
@@ -56,6 +59,8 @@ Core senior engineer leading the collaboration engine built on top of Atticus's 
 **Performance & Scale**
 * Off-Thread Document Processing: Designed asynchronous compilation pipelines for PDF and ePub rendering, keeping the editor responsive for authors while long documents compile in the background
 * Production Ownership: Maintained and evolved the collaboration engine as a system serving 100K+ active authors, balancing new feature work against the reliability demands of a live, heavily-used product
+
+---
 
 ## 💻 Engineering Focus
 
